@@ -2,10 +2,8 @@
 
 ### 你好，世界 👋
 
-- 📙 Focusing on Swift & iOS
-- 🔨 Creator of applications and frameworks
-- 🐏 Founder of ObjCCN
-- 🥩 Meat lover
+- 🌱 I’m currently learning ...
+
 <!--
 **qiangdadi/qiangdadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
