@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ...
 
 <!--
-**qiangdadi/qiangdadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**fighting-xq/fighting-xq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
