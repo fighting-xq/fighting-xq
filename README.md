@@ -1,4 +1,4 @@
-<img src="readmestats-flax.vercel.app/api?username=fighting-xq&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" align="right"/>
+<img src="https://readmestats-hxq.vercel.app/api?username=fighting-xq&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" align="right"/>
 
 ### 你好，世界 👋
 
